@@ -1,0 +1,218 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!181963792 &2655988077585873504
+Preset:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: TileManager
+  m_TargetType:
+    m_NativeTypeID: 114
+    m_ManagedTypePPtr: {fileID: 11500000, guid: 459b89a028b48b9429ed38c60f74ad7a,
+      type: 3}
+    m_ManagedTypeFallback: 
+  m_Properties:
+  - target: {fileID: 0}
+    propertyPath: m_Enabled
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_EditorHideFlags
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_EditorClassIdentifier
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: tilePrefabs.Array.size
+    value: 15
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: tilePrefabs.Array.data[0]
+    value: 
+    objectReference: {fileID: 1352503084824412119, guid: bf4c0389d490a4b42be8fa106616d675,
+      type: 3}
+  - target: {fileID: 0}
+    propertyPath: tilePrefabs.Array.data[1]
+    value: 
+    objectReference: {fileID: 1352503084824412119, guid: 948c211673c3bc84eb3bf21709d8604c,
+      type: 3}
+  - target: {fileID: 0}
+    propertyPath: tilePrefabs.Array.data[2]
+    value: 
+    objectReference: {fileID: 1352503084824412119, guid: 38583fa9d0d5563459259cb0c782292a,
+      type: 3}
+  - target: {fileID: 0}
+    propertyPath: tilePrefabs.Array.data[3]
+    value: 
+    objectReference: {fileID: 1352503084824412119, guid: 0a003c2b68e6f2544b3961e8ce4bf8cc,
+      type: 3}
+  - target: {fileID: 0}
+    propertyPath: tilePrefabs.Array.data[4]
+    value: 
+    objectReference: {fileID: 1352503084824412119, guid: bcb0c703f7cbbc6408769604547309ff,
+      type: 3}
+  - target: {fileID: 0}
+    propertyPath: tilePrefabs.Array.data[5]
+    value: 
+    objectReference: {fileID: 1352503084824412119, guid: a29449cfb42831b4995aa6be3e35eb1c,
+      type: 3}
+  - target: {fileID: 0}
+    propertyPath: tilePrefabs.Array.data[6]
+    value: 
+    objectReference: {fileID: 1352503084824412119, guid: 17bef7b6d6e09eb4ea1c434029d9e87e,
+      type: 3}
+  - target: {fileID: 0}
+    propertyPath: tilePrefabs.Array.data[7]
+    value: 
+    objectReference: {fileID: 1352503084824412119, guid: 02221e69e6e44c8448b67548489311f1,
+      type: 3}
+  - target: {fileID: 0}
+    propertyPath: tilePrefabs.Array.data[8]
+    value: 
+    objectReference: {fileID: 1352503084824412119, guid: b614fb0cf7d77ad478eed242f9697a7a,
+      type: 3}
+  - target: {fileID: 0}
+    propertyPath: tilePrefabs.Array.data[9]
+    value: 
+    objectReference: {fileID: 1352503084824412119, guid: 038957e004790044f82609c0cac4b96d,
+      type: 3}
+  - target: {fileID: 0}
+    propertyPath: tilePrefabs.Array.data[10]
+    value: 
+    objectReference: {fileID: 1352503084824412119, guid: c2858024c63e21d4d939655299512037,
+      type: 3}
+  - target: {fileID: 0}
+    propertyPath: tilePrefabs.Array.data[11]
+    value: 
+    objectReference: {fileID: 1352503084824412119, guid: 2c0f6a57e9e1e1e4e875f08dc010d360,
+      type: 3}
+  - target: {fileID: 0}
+    propertyPath: tilePrefabs.Array.data[12]
+    value: 
+    objectReference: {fileID: 1352503084824412119, guid: 13d6cd46f17cef142bae52833a1bc59a,
+      type: 3}
+  - target: {fileID: 0}
+    propertyPath: tilePrefabs.Array.data[13]
+    value: 
+    objectReference: {fileID: 1352503084824412119, guid: 53cf92c15f4177f4b90f879af0a200d9,
+      type: 3}
+  - target: {fileID: 0}
+    propertyPath: tilePrefabs.Array.data[14]
+    value: 
+    objectReference: {fileID: 1352503084824412119, guid: bf4c0389d490a4b42be8fa106616d675,
+      type: 3}
+  - target: {fileID: 0}
+    propertyPath: SpawnCurve.m_Curve.Array.size
+    value: 3
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SpawnCurve.m_Curve.Array.data[0].time
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SpawnCurve.m_Curve.Array.data[0].value
+    value: 0.005859375
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SpawnCurve.m_Curve.Array.data[0].inSlope
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SpawnCurve.m_Curve.Array.data[0].outSlope
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SpawnCurve.m_Curve.Array.data[0].tangentMode
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SpawnCurve.m_Curve.Array.data[0].weightedMode
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SpawnCurve.m_Curve.Array.data[0].inWeight
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SpawnCurve.m_Curve.Array.data[0].outWeight
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SpawnCurve.m_Curve.Array.data[1].time
+    value: 0.28349167
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SpawnCurve.m_Curve.Array.data[1].value
+    value: 0.023783855
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SpawnCurve.m_Curve.Array.data[1].inSlope
+    value: 0.37666076
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SpawnCurve.m_Curve.Array.data[1].outSlope
+    value: 0.37666076
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SpawnCurve.m_Curve.Array.data[1].tangentMode
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SpawnCurve.m_Curve.Array.data[1].weightedMode
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SpawnCurve.m_Curve.Array.data[1].inWeight
+    value: 0.33333334
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SpawnCurve.m_Curve.Array.data[1].outWeight
+    value: 0.33333334
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SpawnCurve.m_Curve.Array.data[2].time
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SpawnCurve.m_Curve.Array.data[2].value
+    value: 1.0058594
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SpawnCurve.m_Curve.Array.data[2].inSlope
+    value: 2
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SpawnCurve.m_Curve.Array.data[2].outSlope
+    value: 2
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SpawnCurve.m_Curve.Array.data[2].tangentMode
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SpawnCurve.m_Curve.Array.data[2].weightedMode
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SpawnCurve.m_Curve.Array.data[2].inWeight
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SpawnCurve.m_Curve.Array.data[2].outWeight
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SpawnCurve.m_PreInfinity
+    value: 2
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SpawnCurve.m_PostInfinity
+    value: 2
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SpawnCurve.m_RotationOrder
+    value: 4
+    objectReference: {fileID: 0}
